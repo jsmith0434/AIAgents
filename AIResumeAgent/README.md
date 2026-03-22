@@ -1,5 +1,5 @@
 
-# 📝 AI Resume Tailor (LangGraph + Anthropic Caching)
+# 📝 AI agents to customize your resume
 
 An automated, multi-agent pipeline designed to analyze job descriptions and perfectly tailor a LaTeX resume. This system uses **Claude 3.5 Sonnet** with **Prompt Caching** to minimize costs during iterative refinement loops.
 
