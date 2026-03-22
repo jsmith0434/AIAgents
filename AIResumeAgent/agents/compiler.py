@@ -21,7 +21,7 @@ def CompilerNode(state: AgentState) -> dict:
     )
 
     # Load your skeleton template
-    template = env.get_template("resume_template.tex")
+    template = env.get_template("AgentTemplate.tex")
 
     # 2. Sanitize the summary and skills
     safe_summary = escape_for_latex(state.get("ProfessionalSummary", ""))
