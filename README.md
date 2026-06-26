@@ -2,13 +2,13 @@
 
 # 🤖 AIAgents
 
-A collection of autonomous and semi-autonomous AI agents designed to solve real-world productivity challenges. This repository serves as a laboratory for exploring **Multi-Agent Orchestration**, **State Management**, and **Cost-Efficient LLM Implementation**.
+A collection of AI agents designed to enhance efficiency and productivity. This repository serves as a laboratory for exploring **Multi-Agent Orchestration**, **State Management**, and **Cost-Efficient LLM Implementation**.
 
 ## 📂 Project Directory
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| [**AIResumeAgent**](https://www.google.com/search?q=./AIResumeAgent) | An iterative pipeline that tailors LaTeX resumes to specific Job Descriptions. | LangGraph, Anthropic (Sonnet 3.5), Jinja2 | ✅ Stable |
+| [**AIResumeAgent**](https://www.google.com/search?q=./AIResumeAgent) | An iterative pipeline that tailors a LaTeX resume to a specific Job Description. | LangGraph, Anthropic (Opus 4-8), Jinja2 | ✅ Stable |
 | *Future Agent* | TBD! | — | 🛠️ Planned |
 
 -----
@@ -30,7 +30,7 @@ While each sub-repo contains its own specific `requirements.txt`, the following 
 
   * **Python 3.10+**
   * **LangGraph / LangChain**
-  * **Environment Management**: `python-dotenv` for managing API keys (Anthropic, OpenAI, etc.)
+  * **Environment Management**: `python-dotenv` for managing API keys
 
 -----
 
