@@ -56,5 +56,3 @@ While each sub-repo contains its own specific `requirements.txt`, the following 
 This is an evolving personal project. If you have suggestions for new agent architectures or optimization strategies, feel free to open an issue or submit a pull request.
 
 -----
-
-**Would you like me to help you draft a "Project Roadmap" section for this README to outline what agents you plan to build next?**
